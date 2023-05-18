@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Boné aba reta",
+            "price": 29.9
+        },
+        {
+            "id": 2,
+            "name": "Boné",
+            "price": 39.9
+        },
+        {
+            "id": 3,
+            "name": "Boina",
+            "price": 59.9
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+.sobre{
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.sobre p{
+    border: 1px solid #7e7a7a;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    list-style: none;
+    margin: auto;
+    width: 25%;
+    font-size: 1.2em;
+}
